@@ -1,6 +1,6 @@
 <div align="center">
 
-# PZ Mod Errors Fix
+# Error fixes for PZ mods
 
 **One mod to enable, many errors gone**.
 
