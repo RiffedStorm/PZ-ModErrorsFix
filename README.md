@@ -52,5 +52,4 @@ Zomboid/
 > The mod ID stays `B42BodyLocationPatch` even as new fixes are added, so updating never breaks your mod list or saves. Just replace the folder.
 
 ## License
-
 MIT
