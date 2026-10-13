@@ -14,7 +14,7 @@
   <img src="assets/banner.png" alt="Main collection + Project Viewpoint collection" width="900">
 </a>
 
-<sub><b>For both **Main collection** and **Project Viewpoint** collection</b></sub>
+<sub>For both the **Main collection** and the **Project Viewpoint** collection</sub>
 
 </div>
 
