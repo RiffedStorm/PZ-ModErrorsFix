@@ -14,7 +14,7 @@
   <img src="assets/banner.png" alt="Main collection + Project Viewpoint collection" width="900">
 </a>
 
-<sub><b>Main collection</b> &nbsp;➕&nbsp; <b>Project Viewpoint collection</b> setup.</sub>
+<sub><b>For both **Main collection** and **Project Viewpoint** collection</b></sub>
 
 </div>
 
@@ -23,14 +23,14 @@
 ## 📦 Installation
 
 1. Click **Code → Download ZIP** (or grab a release) and unzip it.
-2. Copy the folder `mods/B42BodyLocationPatch` into your Zomboid mods folder:
+2. Copy the folder `mods/RiffedPatches` into your Zomboid mods folder:
 
    | OS | Path |
    |----|------|
    | Windows | `C:\Users\<you>\Zomboid\mods\` |
    | Linux / macOS | `~/Zomboid/mods/` |
 
-3. Start the game, open **Mods**, and enable **B42 Body Location Patch**.
+3. Start the game, open **Mods**, and enable **Riffed Patches**.
 4. Load your save as usual. No new game needed.
 
 The final path should look like this:
@@ -38,7 +38,7 @@ The final path should look like this:
 ```
 Zomboid/
 └── mods/
-    └── B42BodyLocationPatch/
+    └── RiffedPatches/
         ├── mod.info
         └── 42/
             ├── mod.info
@@ -49,7 +49,7 @@ Zomboid/
                     └── B42OsClockShim.lua
 ```
 
-> The mod ID stays `B42BodyLocationPatch` even as new fixes are added, so updating never breaks your mod list or saves. Just replace the folder.
+> The mod ID stays `RiffedPatches` even as new fixes are added, so updating never breaks your mod list or saves. Just replace the folder.
 
 ## License
 MIT
