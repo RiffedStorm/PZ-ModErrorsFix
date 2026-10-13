@@ -1,0 +1,4 @@
+name=Riffed Patches
+id=RiffedPatches
+description=Compatibility shims for Build 42.21: converts old string body locations to ItemBodyLocation, guards the world context menu against objects with no sprite name (Project Viewpoint), and provides a missing os.clock() for Immersive Overlays Retexture.
+versionMin=42.0.0
